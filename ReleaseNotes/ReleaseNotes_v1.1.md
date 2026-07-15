@@ -38,8 +38,3 @@ Standard browser popups have been replaced with custom, built-in dialogs. When d
 - Fixed a bug causing labels to hide improperly in certain views.
 - Fixed an issue where folder thumbnails wouldn't always update immediately after adding or removing items.
 - Improved overall performance and stability.
-
----
-
-**A Quick Note from the Developer:**
-I've spent a lot of time hunting down imperfections and fixing as many bugs as possible for this release. If you run into any odd behavior or come across a bug, please let me know so I can fix it in the next update. Thanks for using Bookmark Drawer!
