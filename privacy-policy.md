@@ -1,6 +1,6 @@
 # Privacy Policy for [Bookmark Drawer](https://chromewebstore.google.com/detail/bookmark-drawer/nglmebfafdbfoegegpeohmaokdebjlec?authuser=0&hl=en)
 
-At Bookmark Drawer, we believe your browsing data is yours alone. We've designed this extension from the ground up to respect your privacy and keep your information safe on your own device.
+At [Bookmark Drawer](https://chromewebstore.google.com/detail/bookmark-drawer/nglmebfafdbfoegegpeohmaokdebjlec?authuser=0&hl=en), we believe your browsing data is yours alone. We've designed this extension from the ground up to respect your privacy and keep your information safe on your own device.
 
 ## How we use your bookmarks
 To work its magic, the extension needs permission to read your bookmarks. We only use this permission to display your bookmarks beautifully on your screen. Your bookmark data is processed locally and never leaves your computer.
