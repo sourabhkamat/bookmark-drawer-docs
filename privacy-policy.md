@@ -1,4 +1,4 @@
-# Privacy Policy for Bookmark Drawer
+# Privacy Policy for [Bookmark Drawer](https://chromewebstore.google.com/detail/bookmark-drawer/nglmebfafdbfoegegpeohmaokdebjlec?authuser=0&hl=en)
 
 At Bookmark Drawer, we believe your browsing data is yours alone. We've designed this extension from the ground up to respect your privacy and keep your information safe on your own device.
 
