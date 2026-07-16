@@ -1,3 +1,5 @@
+[Bookmark Drawer](https://chromewebstore.google.com/detail/bookmark-drawer/nglmebfafdbfoegegpeohmaokdebjlec?authuser=0&hl=en)
+
 A fast, native-feeling app drawer that replaces Chrome's default bookmark experience.
 
 Bookmark Drawer completely transforms how you interact with your saved websites. Instead of hunting through endless dropdown menus or cluttered text lists, this extension turns your bookmarks into a beautiful, native-feeling "App Drawer" right inside your browser.
